@@ -1,0 +1,14 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "layouwen@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.8.3",
+    "ts-node-dev": "^2.0.0"
+  }
+}

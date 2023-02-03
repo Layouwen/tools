@@ -1,0 +1,16 @@
+{
+  "name": "@tools/utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev src/main.ts"
+  },
+  "keywords": [],
+  "author": "layouwen@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@tools/utils": "workspace:^1.0.0",
+    "json-format": "^1.0.1"
+  }
+}
